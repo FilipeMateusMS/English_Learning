@@ -7,3 +7,5 @@ i;eu;0
 you;você;0
 
 Caso acerte o sistema incrementa 1 a terceira coluna.
+
+Aprimore o sistema para funcionar com um Banco de Dados
