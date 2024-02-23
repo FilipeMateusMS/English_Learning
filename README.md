@@ -5,6 +5,7 @@ O sistema lê todos as linhas de um arquivo .csv e seleciona 5 registros depois 
 Exemplo de arquivo:
 
 i;eu;0
+
 you;você;0
 
 Caso acerte o sistema incrementa 1 a terceira coluna.
