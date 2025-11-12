@@ -1,6 +1,6 @@
 # English_Learning
-Projeto GUI com Java para aprender Inglês com Português( pt_BR )
-A tela terá 200 x 200 pixels, e ficará no canto inferior direito. Utiliza Java Swing.
+Projeto GUI utilizando Java Swing para aprender Inglês com Português( pt_BR )
+A tela terá 200 x 200 pixels, e ficará no canto inferior direito. 
 
 O sistema lê todos as linhas de um arquivo .csv e seleciona 5 registros depois seleciona 1 registro para ser o correto;
 Exemplo de arquivo:
